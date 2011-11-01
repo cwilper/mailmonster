@@ -1,0 +1,10 @@
+  ---
+  About
+  ---
+
+About ${artifactId}
+
+  This library provides a framework for processing mbox files.
+
+  For more information, see {{{./usage.html}Usage}} and
+{{{./apidocs/index.html}Javadocs}}
