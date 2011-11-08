@@ -1,0 +1,22 @@
+Mail Monster - Source Code
+==========================
+
+A simple utility for splitting mbox files by month.
+
+Build Instructions
+------------------
+
+To build all project artifacts and install them in your local Maven repository:
+
+    mvn clean install
+
+Usage
+-----
+
+To read a single mbox file and sort it into mbox files by month:
+
+    java -jar mailmonster-VERSION-jar-with-dependencies.jar MBOX_FILE OUTPUT_DIR
+
+To read a directory of mbox files and sort them into mbox files by month:
+
+    java -jar mailmonster-VERSION-jar-with-dependencies.jar MBOX_DIR OUTPUT_DIR
