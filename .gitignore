@@ -3,3 +3,7 @@ target
 *.log
 *.iml
 .DS_Store
+.classpath
+.metadata
+.project
+.settings
